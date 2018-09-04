@@ -24,6 +24,6 @@ var iLoveTheBeatles = function(n){
     arr.push('I love the Beatles!')
     i++
   }
-  while (i<n)
-  return arr
+  while (i<n);
+  return arr;
 }
